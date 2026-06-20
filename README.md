@@ -12,7 +12,7 @@ I build systems that extract, process, and reason over data at scale.
 - 🔭 Currently working as **Software Engineer at Gamyam**
 - - 🤖 Specializing in **AI Systems, Data Extraction & Automation**
   - - 🌐 Building scalable **Web & Mobile data pipelines**
-    - - 💬 Ask me about **Python, Django, FastAPI, AWS, LangChain**
+    - - 💬 Ask me about **Python, Django, FastAPI, AWS**
       - - 📫 Reach me at: **vinaybhaskarbonam@gmail.com**
         - - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/vinay-bhaskar-bonam-135917283)
          
@@ -29,7 +29,6 @@ I build systems that extract, process, and reason over data at scale.
           ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
           ### AI & Automation
-          ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
           ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
           ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
           ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
@@ -51,7 +50,7 @@ I build systems that extract, process, and reason over data at scale.
           ## 🌟 Core Strengths
 
           - ⚡ Data extraction systems with **99%+ uptime** across global platforms
-          - - 🤖 AI pipelines using **LangChain & GPT-4** with real-time web research
+          - - 🤖 AI pipelines using **GPT-4** with real-time web research
             - - 📱 Mobile app **reverse engineering** (Frida, SSL pinning bypass)
               - - ☁️ AWS infrastructure optimization & cost reduction
                 - - 🔄 Real-time monitoring pipelines across concurrent scraping jobs
